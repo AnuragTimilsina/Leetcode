@@ -1,2 +1,2 @@
 # Leetcode
-Repo consists of all the sloved leet code problems attempted. 
+Repo consists of the sloved leet code problems attempted. 
